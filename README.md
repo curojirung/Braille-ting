@@ -2,6 +2,9 @@
 
 모바일 콘텐츠 공모전 출품작 생활분야 "Braille-ting"입니다.
 
+##GUIDE
+![img](GUIDE.jpg)
+
 ## FILE
 
 * `AI`: 디자인 원본 ai파일 입니다.
